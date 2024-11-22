@@ -1,0 +1,29 @@
+.IntroBox{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.TituloIntro{
+    padding-top: 30px;
+    color: #212121;
+    font-size: 45px;
+    margin-top: 25px;
+    margin-bottom: 0%;
+}
+.ParagrafoIntro{
+    margin-top: 0%;
+    padding-bottom: 30px;
+    color: #F18A26;
+    font-size: 30px;
+}
+.MetodologiaBox{
+    width: 100%;
+    height: 260px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom , #F1772F, #F06337);
+    font-size: 40px;
+    color: #FFFFFF;
+}

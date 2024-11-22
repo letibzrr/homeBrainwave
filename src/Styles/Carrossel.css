@@ -1,0 +1,41 @@
+.CarrosselBox{
+    padding-top: 30px;
+}
+.TituloInicial{
+    color: #212121;
+    font-size: 25px;
+    margin-bottom: 0%;
+}
+.TituloCapacidade{
+    color: #F18A26;
+    font-size: 25px;
+    margin-top: 5px;
+}
+.Carrossel{
+    border: 3px solid  #F18A26; 
+    border-radius: 20px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+.TituloLogo{
+    display: flex;
+    align-items: center;
+}
+.LogoImg{
+    width: 40px; 
+    height: 50px; 
+    margin-right: 5px;
+}
+.TitleCapacidade{
+    font-size: 25px;
+    color: #F18A26;
+    margin-bottom: 0%;
+}
+.DescCapacidade{
+    font-size: 20px;
+    color: #212121;
+}

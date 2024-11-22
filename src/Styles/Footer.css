@@ -1,0 +1,19 @@
+.SectionFooter{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.BoxLinks{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.LinksFooter{
+    text-decoration: none;
+}
+.LinksPages{
+    color: #F1772F;
+}
+.Copyright{
+    text-align: center;
+    color: #F1772F;
+}
